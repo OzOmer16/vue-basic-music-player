@@ -1,4 +1,4 @@
-# history-project
+# vue-basic-music-player
 
 ## Project setup
 ```
